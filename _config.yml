@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+title: This is the personal homepage of June Lee,
+description: 
+plugins:
+  - jemoji
